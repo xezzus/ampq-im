@@ -1,6 +1,6 @@
 {
     "name": "xezzus/amqp-im",
-    "description": "",
+    "description": "Send and take message to AMQP protocol",
     "keywords": [
         "amqp",
         "im"

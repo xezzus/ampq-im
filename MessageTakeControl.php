@@ -1,5 +1,5 @@
 <?php
-namespace common\components\im;
+namespace amqpim;
 
 class MessageTakeControl
 {
